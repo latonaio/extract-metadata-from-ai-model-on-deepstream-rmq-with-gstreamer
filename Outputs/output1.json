@@ -1,0 +1,27 @@
+{
+   "frameNumber":24,
+   "inferredResult":[
+      {
+         "label":"Person",
+         "coordinate":{
+            "topLeft":{
+               "x":156,
+               "y":93
+            },
+            "topRight":{
+               "x":348,
+               "y":93
+            },
+            "bottomLeft":{
+               "x":156,
+               "y":446
+            },
+            "bottomRight":{
+               "x":348,
+               "y":446
+            }
+         }
+      }
+   ]
+}
+
