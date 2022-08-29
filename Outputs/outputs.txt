@@ -1,0 +1,30 @@
+#message1
+{"frameNumber": 24, "inferredResult": [{"label": "Person", "coordinate": {"topLeft": {"x": 156, "y": 93}, "topRight": {"x": 348, "y": 93}, "bottomLeft": {"x": 156, "y": 446}, "bottomRight": {"x": 348, "y": 446}}}]}
+
+#message2
+{"frameNumber": 26, "inferredResult": [{"label": "Person", "coordinate": {"topLeft": {"x": 156, "y": 83}, "topRight": {"x": 352, "y": 83}, "bottomLeft": {"x": 156, "y": 446}, "bottomRight": {"x": 352, "y": 446}}}]}
+
+#message3
+{"frameNumber": 27, "inferredResult": [{"label": "Person", "coordinate": {"topLeft": {"x": 162, "y": 88}, "topRight": {"x": 351, "y": 88}, "bottomLeft": {"x": 162, "y": 446}, "bottomRight": {"x": 351, "y": 446}}}]}
+
+#message4
+{"frameNumber": 29, "inferredResult": [{"label": "Person", "coordinate": {"topLeft": {"x": 138, "y": 147}, "topRight": {"x": 358, "y": 147}, "bottomLeft": {"x": 138, "y": 446}, "bottomRight": {"x": 358, "y": 446}}}]}
+
+#message5
+{"frameNumber": 38, "inferredResult": [{"label": "Person", "coordinate": {"topLeft": {"x": 144, "y": 104}, "topRight": {"x": 357, "y": 104}, "bottomLeft": {"x": 144, "y": 446}, "bottomRight": {"x": 357, "y": 446}}}]}
+
+#message6
+{"frameNumber": 39, "inferredResult": [{"label": "Person", "coordinate": {"topLeft": {"x": 149, "y": 107}, "topRight": {"x": 350, "y": 107}, "bottomLeft": {"x": 149, "y": 446}, "bottomRight": {"x": 350, "y": 446}}}]}
+
+#message7
+{"frameNumber": 40, "inferredResult": [{"label": "Person", "coordinate": {"topLeft": {"x": 159, "y": 106}, "topRight": {"x": 363, "y": 106}, "bottomLeft": {"x": 159, "y": 446}, "bottomRight": {"x": 363, "y": 446}}}]}
+
+#message8
+{"frameNumber": 41, "inferredResult": [{"label": "Person", "coordinate": {"topLeft": {"x": 185, "y": 135}, "topRight": {"x": 351, "y": 135}, "bottomLeft": {"x": 185, "y": 446}, "bottomRight": {"x": 351, "y": 446}}}]}
+
+#message9
+{"frameNumber": 42, "inferredResult": [{"label": "Person", "coordinate": {"topLeft": {"x": 164, "y": 117}, "topRight": {"x": 354, "y": 117}, "bottomLeft": {"x": 164, "y": 446}, "bottomRight": {"x": 354, "y": 446}}}]}
+
+#message10
+{"frameNumber": 43, "inferredResult": [{"label": "Person", "coordinate": {"topLeft": {"x": 158, "y": 111}, "topRight": {"x": 359, "y": 111}, "bottomLeft": {"x": 158, "y": 446}, "bottomRight": {"x": 359, "y": 446}}}]}
+
