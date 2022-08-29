@@ -1,5 +1,5 @@
-# extract-metadata-from-ai-model-on-deepstream-with-gstreamer-rmq
-extract-metadata-from-ai-model-on-deepstream-with-gstreamer-rmq は、GStreamer を使用して、DeepStream上でAIモデルからメタデータを抽出し、メタデータをRabbitMQへ送信するマイクロサービスです。
+# extract-metadata-from-ai-model-on-deepstream-rmq-with-gstreamer
+extract-metadata-from-ai-model-on-deepstream-rmq-with-gstreamer は、GStreamer を使用して、DeepStream上でAIモデルからメタデータを抽出し、メタデータをRabbitMQへ送信するマイクロサービスです。
 本マイクロサービスでは、以下のメタデータを取得できます。
 
 - フレーム番号
